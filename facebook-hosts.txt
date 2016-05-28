@@ -312,3 +312,6 @@
 127.0.0.1 be-nl.facebook.com
 127.0.0.1 fr-fr.facebook.com
 127.0.0.1 it-it.facebook.com
+127.0.0.1 edge-mqtt-mini-shv-01-amt1.facebook.com
+127.0.0.1 edge-mqtt-mini-shv-01-amt2.facebook.com
+127.0.0.1 edge-mqtt-mini-shv-01-ams3.facebook.com
